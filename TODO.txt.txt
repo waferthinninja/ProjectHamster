@@ -1,0 +1,14 @@
+Split ship into component pieces
+	- main body
+	- wings
+	- thruster
+	- weapons
+Planet
+	- apply gravity
+	- collisions
+Asteroids
+Enemy types
+	- shooter
+	- charger
+	- drunkard (wanders aimlessly)
+	- beam

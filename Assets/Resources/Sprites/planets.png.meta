@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: a76046d4f37efb947bdb5ea8ed654234
+timeCreated: 1452255247
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: planets_0
+    21300002: planets_1
+    21300004: planets_2
+    21300006: planets_3
+    21300008: planets_4
+    21300010: planets_5
+    21300012: planets_6
+    21300014: planets_7
+    21300016: planets_8
+    21300018: planets_9
+    21300020: planets_10
+    21300022: planets_11
+    21300024: planets_12
+    21300026: planets_13
+    21300028: planets_14
+    21300030: planets_15
+    21300032: planets_16
+    21300034: planets_17
+    21300036: planets_18
+    21300038: planets_19
+    21300040: planets_20
+    21300042: planets_21
+    21300044: planets_22
+    21300046: planets_23
+    21300048: planets_24
+    21300050: planets_25
+    21300052: planets_26
+    21300054: planets_27
+    21300056: planets_28
+    21300058: planets_29
+    21300060: planets_30
+    21300062: planets_31
+    21300064: planets_32
+    21300066: planets_33
+    21300068: planets_34
+    21300070: planets_35
+    21300072: planets_36
+    21300074: planets_37
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: planets_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 261
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 42.5}
+        - {x: -42.5, y: 21.5}
+        - {x: -42.5, y: -31.5}
+        - {x: -33.5, y: -42.5}
+        - {x: 27.5, y: -42.5}
+        - {x: 42.5, y: -34.5}
+        - {x: 42.5, y: 19.5}
+        - {x: 27.5, y: 42.5}
+    - name: planets_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 261
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 42.5}
+        - {x: -42.5, y: 29.5}
+        - {x: -42.5, y: -29.5}
+        - {x: -28.5, y: -42.5}
+        - {x: 24.5, y: -42.5}
+        - {x: 42.5, y: -20.5}
+        - {x: 42.5, y: 23.5}
+        - {x: 38.5, y: 42.5}
+    - name: planets_2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 261
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: 42.5}
+        - {x: -31.5, y: 42.5}
+        - {x: -42.5, y: 24.5}
+        - {x: -42.5, y: -34.5}
+        - {x: -20.5, y: -42.5}
+        - {x: 26.5, y: -42.5}
+        - {x: 40.5, y: -30.5}
+        - {x: 42.5, y: -23.5}
+        - {x: 42.5, y: 23.5}
+    - name: planets_3
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 261
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 42.5}
+        - {x: -42.5, y: 38.5}
+        - {x: -42.5, y: -29.5}
+        - {x: -25.5, y: -42.5}
+        - {x: 19.5, y: -42.5}
+        - {x: 42.5, y: -34.5}
+        - {x: 42.5, y: 32.5}
+        - {x: 34.5, y: 42.5}
+    - name: planets_4
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 261
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 42.5}
+        - {x: -28.5, y: 42.5}
+        - {x: -42.5, y: 26.5}
+        - {x: -42.5, y: -24.5}
+        - {x: -38.5, y: -42.5}
+        - {x: 35.5, y: -42.5}
+        - {x: 42.5, y: -23.5}
+        - {x: 42.5, y: 30.5}
+        - {x: 33.5, y: 41.5}
+    - name: planets_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 244
+        width: 39
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: planets_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 244
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: planets_7
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 244
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: planets_8
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 244
+        width: 40
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: planets_9
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 244
+        width: 39
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: planets_10
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 244
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: planets_11
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 52
+        width: 85
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 96.5}
+        - {x: -6.5, y: 92.5}
+        - {x: -40.5, y: 19.5}
+        - {x: -42.5, y: 14.5}
+        - {x: -42.5, y: -25.5}
+        - {x: -11.5, y: -95.5}
+        - {x: -7.5, y: -96.5}
+        - {x: 11.5, y: -96.5}
+        - {x: 42.5, y: -64.5}
+        - {x: 42.5, y: 77.5}
+        - {x: 38.5, y: 96.5}
+      - - {x: 27.5, y: -42.5}
+        - {x: 24.5, y: -43.5}
+        - {x: 19.5, y: -56.5}
+        - {x: 19.5, y: -73.5}
+        - {x: 20.5, y: -77.5}
+        - {x: 42.5, y: -77.5}
+        - {x: 42.5, y: -42.5}
+      - - {x: -42.5, y: 96.5}
+        - {x: -42.5, y: 93.5}
+        - {x: -39.5, y: 93.5}
+        - {x: -37.5, y: 95.5}
+        - {x: -37.5, y: 96.5}
+      - - {x: 26.5, y: 96.5}
+        - {x: 28.5, y: 93.5}
+        - {x: 42.5, y: 93.5}
+        - {x: 42.5, y: 96.5}
+    - name: planets_12
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 244
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: planets_13
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 244
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: planets_14
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 244
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: planets_15
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 244
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: planets_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 137
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: 42.5}
+        - {x: -68.5, y: 12.5}
+        - {x: -68.5, y: -11.5}
+        - {x: -33.5, y: -40.5}
+        - {x: -22.5, y: -42.5}
+        - {x: 28.5, y: -42.5}
+        - {x: 68.5, y: -9.5}
+        - {x: 68.5, y: 20.5}
+        - {x: 27.5, y: 42.5}
+    - name: planets_17
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 134
+        width: 209
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: 42.5}
+        - {x: -46.5, y: 42.5}
+        - {x: -103.5, y: 9.5}
+        - {x: -104.5, y: 6.5}
+        - {x: -104.5, y: -15.5}
+        - {x: -56.5, y: -42.5}
+        - {x: 49.5, y: -42.5}
+        - {x: 104.5, y: -26.5}
+        - {x: 104.5, y: 5.5}
+    - name: planets_18
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 113
+        width: 37
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: planets_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 113
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: planets_20
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 113
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: planets_21
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 117
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: planets_22
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 117
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: planets_23
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 21
+        width: 159
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 42.5}
+        - {x: -79.5, y: 22.5}
+        - {x: -79.5, y: -7.5}
+        - {x: -36.5, y: -42.5}
+        - {x: 28.5, y: -42.5}
+        - {x: 79.5, y: -19.5}
+        - {x: 79.5, y: 10.5}
+        - {x: 51.5, y: 42.5}
+    - name: planets_24
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 14
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.5, y: 42.5}
+        - {x: -22.5, y: 42.5}
+        - {x: -42.5, y: 36.5}
+        - {x: -42.5, y: -35.5}
+        - {x: -20.5, y: -42.5}
+        - {x: 42.5, y: -42.5}
+        - {x: 42.5, y: 39.5}
+    - name: planets_25
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 84
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: planets_26
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 84
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: planets_27
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 17
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: 33}
+        - {x: -8, y: 33}
+        - {x: -30, y: 11}
+        - {x: -39, y: -21}
+        - {x: -39, y: -33}
+        - {x: 14, y: -33}
+        - {x: 24, y: -19}
+        - {x: 30, y: -8}
+        - {x: 39, y: 18}
+    - name: planets_28
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 73
+        width: 39
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: planets_29
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 73
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: planets_30
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 73
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: planets_31
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 35
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: planets_32
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 35
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: planets_33
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 35
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: planets_34
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 35
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: planets_35
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 35
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: planets_36
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 2
+        width: 47
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: planets_37
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 2
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

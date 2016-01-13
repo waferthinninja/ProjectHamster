@@ -28,20 +28,22 @@ public class PlayerController : MonoBehaviour
 
 	    if (Input.GetKey(KeyCode.LeftArrow))
         {
-            transform.Rotate(0,0,RotationSpeed);
+            rigidbody.angularVelocity = 0; // clear any rotation caused by collisions 
+            rigidbody.rotation += RotationSpeed;
         }
+
         if (Input.GetKey(KeyCode.RightArrow))
         {
-            transform.Rotate(0, 0, -RotationSpeed);
+            rigidbody.angularVelocity = 0; // clear any rotation caused by collisions
+            rigidbody.rotation -= RotationSpeed;
         }
 	    
 	    if (Input.GetKey(KeyCode.UpArrow))
         {
-            // apply thrust 
+            // apply thrust             
+            rigidbody.AddForce(transform.up * Acceleration * Time.deltaTime);
 
             // limit speed
-            rigidbody.AddForce(transform.up * Acceleration);
-
             if (rigidbody.velocity.magnitude > MaxSpeed)
             {
                 rigidbody.velocity = rigidbody.velocity.normalized * MaxSpeed;
